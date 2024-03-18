@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/1001/1001-windows/1001-windows/1003-windows-obsidian/1004-windows-obsidian/","dgPassFrontmatter":true}
 ---
 
----
----
 
 # 1 链接
 
